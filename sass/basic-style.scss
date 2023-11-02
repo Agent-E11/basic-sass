@@ -1,0 +1,19 @@
+$bg-color: rgb(240, 240, 240);
+$hl-color: rgb(37, 143, 23);
+
+body {
+    margin: 0;
+    padding: 0;
+    font: 1em arial;
+}
+
+div.my-content {
+    width: 50%;
+    margin: auto;
+    background-color: $bg-color;
+    padding: 1em;
+}
+
+.highlight {
+    color: $hl-color;
+}

@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font: 1em arial;
+}
+
+div.my-content {
+  width: 50%;
+  margin: auto;
+  background-color: rgb(240, 240, 240);
+  padding: 1em;
+}
+
+.highlight {
+  color: rgb(37, 143, 23);
+}
+
+/*# sourceMappingURL=basic-style.css.map */
