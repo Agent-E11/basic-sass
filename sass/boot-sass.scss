@@ -3,3 +3,12 @@ $theme-colors: (
 );
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: .25em;
+}
