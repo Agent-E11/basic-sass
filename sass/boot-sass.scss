@@ -1,15 +1,9 @@
 $theme-colors: (
-    "primary": #0fab0f
+    "primary": rgb(195, 23, 76)
 );
 
+// You must run `npm install` in the root of the git repo before you can compile the sass
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
-
-// @import "../node_modules/bootstrap/scss/functions";
-// @import "../node_modules/bootstrap/scss/variables";
-// @import "../node_modules/bootstrap/scss/mixins";
-
-// @import "../node_modules/bootstrap/scss/variables.scss";
-// @import "../node_modules/bootstrap/scss/variables-dark.scss";
 
 body {
     padding: 0;
