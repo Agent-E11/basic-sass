@@ -1,8 +1,15 @@
 $theme-colors: (
-    "primary": rgb(0, 194, 3)
+    "primary": #0fab0f
 );
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// @import "../node_modules/bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/variables";
+// @import "../node_modules/bootstrap/scss/mixins";
+
+// @import "../node_modules/bootstrap/scss/variables.scss";
+// @import "../node_modules/bootstrap/scss/variables-dark.scss";
 
 body {
     padding: 0;
